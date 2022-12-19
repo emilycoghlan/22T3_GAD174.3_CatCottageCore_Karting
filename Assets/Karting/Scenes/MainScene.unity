@@ -6473,11 +6473,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5073779810952119157, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -4245163838455885367, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -2002718587592883053, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     - target: {fileID: 919132149155446097, guid: 3a8a85d00d25c064f83339f65eb56c50,
         type: 3}
       propertyPath: m_Name
       value: CatTreeDone (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 926823815611163849, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: 1170970068873931921, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: 6326132849694847858, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a8a85d00d25c064f83339f65eb56c50, type: 3}
 --- !u!1001 &393423008
@@ -8451,11 +8481,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5073779810952119157, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -4245163838455885367, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -2002718587592883053, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     - target: {fileID: 919132149155446097, guid: 3a8a85d00d25c064f83339f65eb56c50,
         type: 3}
       propertyPath: m_Name
       value: CatTreeDone (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 926823815611163849, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: 1170970068873931921, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: 6326132849694847858, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a8a85d00d25c064f83339f65eb56c50, type: 3}
 --- !u!1001 &496147084
@@ -14751,11 +14811,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5073779810952119157, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -4245163838455885367, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -2002718587592883053, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     - target: {fileID: 919132149155446097, guid: 3a8a85d00d25c064f83339f65eb56c50,
         type: 3}
       propertyPath: m_Name
       value: CatTreeDone (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 926823815611163849, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: 1170970068873931921, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: 6326132849694847858, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a8a85d00d25c064f83339f65eb56c50, type: 3}
 --- !u!1001 &806572543
@@ -15395,11 +15485,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5073779810952119157, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -4245163838455885367, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -2002718587592883053, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     - target: {fileID: 919132149155446097, guid: 3a8a85d00d25c064f83339f65eb56c50,
         type: 3}
       propertyPath: m_Name
       value: CatTreeDone
       objectReference: {fileID: 0}
+    - target: {fileID: 926823815611163849, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: 6326132849694847858, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a8a85d00d25c064f83339f65eb56c50, type: 3}
 --- !u!1001 &822567238
@@ -18413,11 +18528,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5073779810952119157, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -4245163838455885367, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: -2002718587592883053, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     - target: {fileID: 919132149155446097, guid: 3a8a85d00d25c064f83339f65eb56c50,
         type: 3}
       propertyPath: m_Name
       value: CatTreeDone (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 926823815611163849, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: 1170970068873931921, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
+    - target: {fileID: 6326132849694847858, guid: 3a8a85d00d25c064f83339f65eb56c50,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69ef129d0d2bb0e4eabb17c8472ef02a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a8a85d00d25c064f83339f65eb56c50, type: 3}
 --- !u!4 &1006557885 stripped
